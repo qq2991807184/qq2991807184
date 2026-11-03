@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="qq2991807184 — 游戏、AI 与热门项目导航" width="100%" />
+<table>
+<tr>
+<td align="center" valign="middle" width="190"><img src="assets/icon.ico" alt="原始品牌 Logo" width="150" /></td>
+<td valign="middle"><img src="assets/profile-banner.svg" alt="qq2991807184 — 游戏、AI 与热门项目导航" width="100%" /></td>
+</tr>
+</table>
 
 ### 🎮 游戏 · 🤖 AI · 🧭 热门项目导航
 
@@ -70,7 +75,7 @@
 
 ## 🌌 关注方向
 
-`AI Agents` `GitHub 热门项目` `开源工具` `英雄联盟数据` `游戏资讯` `三角洲行动` `探索新东西`
+`AI Agents` `GitHub 热��项目` `开源工具` `英雄联盟数据` `游戏资讯` `三角洲行动` `探索新东西`
 
 ## 📊 GitHub 统计
 
