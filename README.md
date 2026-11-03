@@ -1,17 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050509,35:17132B,70:40246A,100:C9A7FF&height=280&section=header&text=QQ&fontSize=100&fontColor=F7F1FF&animation=fadeIn&fontAlignY=38&desc=思想无界%20%20%7C%20%20万物皆可探索&descAlignY=63&descSize=18" width="100%" alt="QQ — 跨界探索者" />
+# QQ｜跨界探索者
 
-# QQ
+### 思想者 · 创作者 · 行动派
 
-### 哲学家 · 作家 · 极限运动家 · 多语言学者
-### 心理学专家 · 顶级黑客 · 个人投资者
-### 闭源大模型算法负责人 · 爆款游戏制作人
-### 合成生物学家 · 工业机器人专家 · 化神期修真者
+**哲学与写作 ｜ 人工智能与游戏 ｜ 生命科学与机器人**
 
-**横跨人文、科技与未知领域的跨界实践者。**
-
-[![GitHub](https://img.shields.io/badge/GitHub-QQ-181717?style=for-the-badge&logo=github)](https://github.com/qq2991807184)
+[GitHub](https://github.com/qq2991807184) · 持续探索，持续创造
 
 </div>
 
