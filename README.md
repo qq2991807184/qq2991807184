@@ -1,80 +1,69 @@
 <div align="center">
 
-# 个人履历
+# 你好，我是 qq2991807184 👋
 
-**学习 · 实践 · 持续成长**
+### 游戏、AI 与开源项目的长期观察者
 
-*以“心即理”为个人提醒：向内求其真，向外把事情做好。*
+关注 **英雄联盟 · 三角洲行动 · 前沿 AI**，也喜欢发现值得一看的开源项目。
+
+[![GitHub](https://img.shields.io/badge/GitHub-关注我的项目-181717?style=for-the-badge&logo=github)](https://github.com/qq2991807184)
+[![Trending](https://img.shields.io/badge/Explore-GitHub%20Trending-2ea44f?style=for-the-badge&logo=github)](https://github.com/trending)
 
 </div>
 
 ---
 
-## 个人简介
+## 🚀 快捷入口
 
-我关注 **[你的专业 / 行业方向]**，目前主要投入在 **[工作、学习或正在探索的方向]**。我希望把兴趣转化为实际能力，把想法落实为可检验的成果；遇到问题时，先理解具体情境，再寻找合适的方法，并根据结果持续调整。
+<table>
+<tr>
+<td width="50%" valign="top">
 
-阳明心学中的“心即理”是我认同的一种个人风格与自我提醒：重视内在判断，也重视在现实中践行和承担。它是我看待问题的角度，不是用来替代专业经历或成果的标签。
+### 🧭 开源与 AI
 
-## 教育经历
+- 🔥 [GitHub Trending · 今日热门](https://github.com/trending?since=daily)
+- 🧠 [GitHub · AI 热门项目](https://github.com/trending?since=weekly&spoken_language_code=&language=python)
+- 🤗 [Hugging Face · 热门模型](https://huggingface.co/models?sort=trending)
+- 🧪 [Hugging Face · 热门 Spaces](https://huggingface.co/spaces?sort=trending)
 
-### [学校名称]｜[专业 / 学位]
-**[入学年份] – [毕业年份 / 至今]**
+</td>
+<td width="50%" valign="top">
 
-- [相关课程、研究方向或学习成果]
-- [奖项、社团或其他真实经历；没有可删除此项]
+### 🎮 游戏与赛事
 
-## 工作与实践经历
+- ⚔️ [英雄联盟 · 官方网站](https://lol.qq.com/)
+- 🏆 [英雄联盟 · 全球赛事](https://lolesports.com/)
+- 🎯 [三角洲行动 · 官方网站](https://df.qq.com/)
+- 🗞️ [三角洲行动 · 官方资讯](https://df.qq.com/web202503/news.shtml)
 
-### [职位 / 身份]｜[公司、组织或团队]
-**[开始时间] – [结束时间 / 至今]**
+</td>
+</tr>
+</table>
 
-- **负责事项：** [你承担的主要职责]
-- **具体行动：** [你如何推进工作、解决问题或与团队协作]
-- **实际结果：** [可说明的交付、改进或影响；尽量提供真实数据]
+---
 
-### [职位 / 身份]｜[公司、组织或团队]
-**[开始时间] – [结束时间]**
+## 👀 最近关注
 
-- [职责与工作范围]
-- [具体贡献及可验证的结果]
+| 方向 | 我在看什么 |
+| --- | --- |
+| **AI** | 新模型、开源工具、智能体与有意思的应用 |
+| **英雄联盟** | 赛事动态、版本变化与精彩对局 |
+| **三角洲行动** | 游戏资讯、玩法更新与社区内容 |
+| **开源** | 值得学习、尝试或收藏的项目 |
 
-## 项目经历
+## 📊 GitHub 概览
 
-### [项目名称](项目链接)
-**[用一句话说明项目解决的问题或提供的价值]**
+<div align="center">
 
-- **个人职责：** [你实际负责的部分]
-- **方法与工具：** [真实使用的技术、流程或协作方式]
-- **项目成果：** [交付结果、数据、用户反馈或获得的经验]
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=qq2991807184&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub 统计" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qq2991807184&layout=compact&theme=tokyonight&hide_border=true" alt="常用语言" />
 
-### [项目名称](项目链接)
-**[项目简介]**
-
-- **个人职责：** [具体贡献]
-- **项目成果：** [实际结果]
-
-## 技能
-
-- **专业技能：** [按实际掌握程度填写]
-- **工具与技术：** [语言、软件、平台或设备]
-- **语言能力：** [语言及熟练程度，如适用]
-
-## 个人风格
-
-- **重视内在判断：** 先厘清自己真正认同什么，再作出选择。
-- **重视现实检验：** 不停留在想法里，用行动和结果检验判断。
-- **保持反思：** 接受反馈，发现偏差时及时修正。
-
-## 联系方式
-
-- **邮箱：** [你的公开邮箱，可留空或删除]
-- **作品 / 社交主页：** [链接]
+</div>
 
 ---
 
 <div align="center">
 
-**把认同的道理，落实到每天的选择与行动里。**
+**保持好奇，持续探索。**  ·  [查看我的仓库](https://github.com/qq2991807184?tab=repositories)  ·  [回到顶部](#你好我是-qq2991807184-)
 
 </div>
