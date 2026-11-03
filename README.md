@@ -1,12 +1,12 @@
 <div align="center">
 
-# QQ
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,45:191522,75:59452E,100:D6B36A&height=240&section=header&text=QQ%20%7C%20%E7%A0%B4%E7%95%8C%E8%80%85&fontSize=54&fontColor=F7F1E8&animation=fadeIn&fontAlignY=38&desc=%E4%BB%A5%E6%80%9D%E6%83%B3%E5%AE%9A%E4%B9%89%E9%97%AE%E9%A2%98%EF%BC%8C%E4%BB%A5%E6%8A%80%E6%9C%AF%E9%87%8D%E5%86%99%E8%BE%B9%E7%95%8C&descAlignY=62&descSize=17" width="100%" alt="QQ｜破界者：以思想定义问题，以技术重写边界" />
 
-### 破界者 · 造境者 · 长期主义实践者
+### 思想者 · 创作者 · 行动派
 
-**以思想定义问题，以技术重写边界。**
+**哲学｜人工智能｜安全｜游戏｜生命科学｜机器人｜投资**
 
-哲学｜人工智能｜安全｜游戏｜生命科学｜机器人｜投资
+[GitHub](https://github.com/qq2991807184) · 持续探索，持续创造
 
 </div>
 
@@ -46,8 +46,7 @@
 
 <div align="center">
 
-**QQ**  
-*Think beyond. Build what comes next.*
+**Think beyond. Build what comes next.**
 
 （以上是平行世界的我。）
 
