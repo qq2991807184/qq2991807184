@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**qq2991807184/qq2991807184** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 你好，欢迎来到我的 GitHub 👋
 
-Here are some ideas to get you started:
+### 这里是 qq2991807184 的小小代码角落
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+写点代码 · 学点新东西 · 慢慢进步 ✨
+
+</div>
+
+---
+
+### 关于这个主页
+
+🌱 这里会慢慢放上我的项目、学习记录和新尝试。  
+💬 欢迎来逛逛，也祝你今天愉快！
+
+<div align="center">
+
+**感谢来访 ☀️**
+
+</div>
