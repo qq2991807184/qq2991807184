@@ -36,28 +36,30 @@
 
 ### ⚔️ 英雄联盟 · 数据与资讯
 
-以下是**合法的战绩、数据、资讯和对局分析入口**，不涉及外挂、脚本或绕过游戏规则的工具。
-
 - [英雄联盟官网](https://lol.qq.com/) — 官方公告与游戏入口
 - [OP.GG](https://www.op.gg/) — 战绩、英雄与对局数据
 - [U.GG](https://u.gg/) — 英雄数据与出装/符文参考
 - [LeagueOfGraphs](https://www.leagueofgraphs.com/) — 战绩、统计与排行榜
 - [Porofessor](https://porofessor.gg/) — 对局信息与玩家数据（具体功能以服务页面为准）
 - [LoL Esports](https://lolesports.com/) — 全球赛事与赛程
+- [GitHub 搜索：英雄联盟相关仓库](https://github.com/search?q=%22League+of+Legends%22&type=repositories) — GitHub 仓库搜索
+- [GitHub 搜索：疑似英雄联盟作弊软件/脚本](https://github.com/search?q=%22League+of+Legends%22+%28cheat+OR+hack+OR+script%29&type=repositories) — 搜索结果未经核验；请自行判断项目性质、合规性与安全性
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 三角洲行动 · 资讯与训练
+### 🎯 三角洲行动 · 资讯与工具探索
 
 - [三角洲行动官网](https://df.qq.com/) — 官方活动、公告与下载入口
 - [官方资讯](https://df.qq.com/web202503/news.shtml) — 查看版本与活动消息
 - [Steam 社区](https://steamcommunity.com/app/2507950) — 社区讨论与玩家内容
 - [Aimlabs](https://store.steampowered.com/app/714010/Aimlabs/) — 免费开始的瞄准训练（可选内购内容以商店说明为准）
+- [GitHub 搜索：三角洲行动相关仓库](https://github.com/search?q=%22Delta+Force%22&type=repositories) — GitHub 仓库搜索
+- [GitHub 搜索：疑似三角洲行动作弊软件/脚本](https://github.com/search?q=%22Delta+Force%22+%28cheat+OR+hack+OR+script%29&type=repositories) — 搜索结果未经核验；请自行判断项目性质、合规性与安全性
 
-**安全提示：**只使用官方客户端及不修改游戏、不读取或篡改游戏数据的普通查询/训练服务；远离外挂、注入器、脚本和所谓“免费辅助”，保护账号与设备安全。
+**安全提示：**第三方仓库内容由发布者提供，可能未经验证、含有恶意代码，或违反游戏服务条款；请先审查来源和代码，不要运行不可信程序，也不要提供账号凭据。
 
 </td>
 <td width="50%" valign="top">
@@ -80,7 +82,7 @@
 
 ## 🌌 我的兴趣坐标
 
-`AI Agents`　`开源模型`　`GitHub Trending`　`英雄联盟数据`　`电竞赛事`　`三角洲行动`　`瞄准训练`
+`AI Agents`　`开源模型`　`GitHub Trending`　`英雄联盟数据`　`电竞赛事`　`三角洲行动`　`游戏工具研究`
 
 ## 📊 GitHub 数据面板
 
