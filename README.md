@@ -1,40 +1,76 @@
 <div align="center">
 
+<img src="assets/profile-banner.svg" alt="qq2991807184 — AI, Games, Open Source" width="100%" />
+
 # 你好，我是 qq2991807184 👋
 
-### 游戏、AI 与开源项目的长期观察者
+### 🎮 游戏玩家 · 🤖 AI 探索者 · 🧭 开源观察员
 
-关注 **英雄联盟 · 三角洲行动 · 前沿 AI**，也喜欢发现值得一看的开源项目。
+把喜欢的东西整理成入口，把新发现变成下一次探索。
 
-[![GitHub](https://img.shields.io/badge/GitHub-关注我的项目-181717?style=for-the-badge&logo=github)](https://github.com/qq2991807184)
-[![Trending](https://img.shields.io/badge/Explore-GitHub%20Trending-2ea44f?style=for-the-badge&logo=github)](https://github.com/trending)
+[![GitHub Trending](https://img.shields.io/badge/🔥%20GitHub-Trending-161b22?style=for-the-badge)](https://github.com/trending)
+[![AI Models](https://img.shields.io/badge/🤗%20Hugging%20Face-Models-yellow?style=for-the-badge)](https://huggingface.co/models?sort=trending)
+[![Repositories](https://img.shields.io/badge/📦%20My-Repositories-238636?style=for-the-badge)](https://github.com/qq2991807184?tab=repositories)
 
 </div>
 
 ---
 
-## 🚀 快捷入口
+## ⚡ 快捷启动台
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧭 开源与 AI
+### 🔥 开源 & AI 雷达
 
-- 🔥 [GitHub Trending · 今日热门](https://github.com/trending?since=daily)
-- 🧠 [GitHub · AI 热门项目](https://github.com/trending?since=weekly&spoken_language_code=&language=python)
-- 🤗 [Hugging Face · 热门模型](https://huggingface.co/models?sort=trending)
-- 🧪 [Hugging Face · 热门 Spaces](https://huggingface.co/spaces?sort=trending)
+- [GitHub Trending · 今日热门](https://github.com/trending?since=daily) — 看社区正在关注什么
+- [GitHub Trending · 本周热门](https://github.com/trending?since=weekly) — 发现持续走热的项目
+- [GitHub AI 项目搜索](https://github.com/search?q=AI&type=repositories&s=stars&o=desc) — 按星标探索 AI 仓库
+- [Hugging Face · 热门模型](https://huggingface.co/models?sort=trending) — 探索新模型
+- [Hugging Face · 热门 Spaces](https://huggingface.co/spaces?sort=trending) — 体验社区 AI 应用
+- [Papers with Code](https://paperswithcode.com/) · [arXiv AI](https://arxiv.org/list/cs.AI/recent) — 跟进研究与论文
 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 游戏与赛事
+### ⚔️ 英雄联盟 · 数据与资讯
 
-- ⚔️ [英雄联盟 · 官方网站](https://lol.qq.com/)
-- 🏆 [英雄联盟 · 全球赛事](https://lolesports.com/)
-- 🎯 [三角洲行动 · 官方网站](https://df.qq.com/)
-- 🗞️ [三角洲行动 · 官方资讯](https://df.qq.com/web202503/news.shtml)
+以下是**合法的战绩、数据、资讯和对局分析入口**，不涉及外挂、脚本或绕过游戏规则的工具。
+
+- [英雄联盟官网](https://lol.qq.com/) — 官方公告与游戏入口
+- [OP.GG](https://www.op.gg/) — 战绩、英雄与对局数据
+- [U.GG](https://u.gg/) — 英雄数据与出装/符文参考
+- [LeagueOfGraphs](https://www.leagueofgraphs.com/) — 战绩、统计与排行榜
+- [Porofessor](https://porofessor.gg/) — 对局信息与玩家数据（具体功能以服务页面为准）
+- [LoL Esports](https://lolesports.com/) — 全球赛事与赛程
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 三角洲行动 · 资讯与训练
+
+- [三角洲行动官网](https://df.qq.com/) — 官方活动、公告与下载入口
+- [官方资讯](https://df.qq.com/web202503/news.shtml) — 查看版本与活动消息
+- [Steam 社区](https://steamcommunity.com/app/2507950) — 社区讨论与玩家内容
+- [Aimlabs](https://store.steampowered.com/app/714010/Aimlabs/) — 免费开始的瞄准训练（可选内购内容以商店说明为准）
+
+**安全提示：**只使用官方客户端及不修改游戏、不读取或篡改游戏数据的普通查询/训练服务；远离外挂、注入器、脚本和所谓“免费辅助”，保护账号与设备安全。
+
+</td>
+<td width="50%" valign="top">
+
+### 🧰 免费创作与开发入口
+
+- [GitHub Codespaces](https://github.com/features/codespaces) — 在线开发（免费额度与限制见官方说明）
+- [GitHub Pages](https://pages.github.com/) — 免费托管静态个人网站
+- [Hugging Face Spaces](https://huggingface.co/spaces) — 浏览或创建 AI 演示应用
+- [Google AI Studio](https://aistudio.google.com/) — 体验与构建 AI 原型（可用额度以官方页面为准）
+- [免安装 Markdown 编辑器](https://stackedit.io/) — 在线编辑 Markdown
+
+> 免费额度、功能与地区可用性可能变化；第三方网站也可能提供付费升级，请以各服务官方说明为准。
 
 </td>
 </tr>
@@ -42,21 +78,28 @@
 
 ---
 
-## 👀 最近关注
+## 🌌 我的兴趣坐标
 
-| 方向 | 我在看什么 |
-| --- | --- |
-| **AI** | 新模型、开源工具、智能体与有意思的应用 |
-| **英雄联盟** | 赛事动态、版本变化与精彩对局 |
-| **三角洲行动** | 游戏资讯、玩法更新与社区内容 |
-| **开源** | 值得学习、尝试或收藏的项目 |
+`AI Agents`　`开源模型`　`GitHub Trending`　`英雄联盟数据`　`电竞赛事`　`三角洲行动`　`瞄准训练`
 
-## 📊 GitHub 概览
+## 📊 GitHub 数据面板
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=qq2991807184&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub 统计" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qq2991807184&layout=compact&theme=tokyonight&hide_border=true" alt="常用语言" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=qq2991807184&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub 统计卡片" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qq2991807184&layout=compact&theme=tokyonight&hide_border=true" alt="常用语言卡片" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=qq2991807184&theme=tokyonight&hide_border=true" alt="GitHub 连续贡献统计" />
+
+<br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=qq2991807184&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub 成就展示" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=qq2991807184&theme=tokyo-night&hide_border=true" alt="GitHub 活动图" />
 
 </div>
 
@@ -64,6 +107,8 @@
 
 <div align="center">
 
-**保持好奇，持续探索。**  ·  [查看我的仓库](https://github.com/qq2991807184?tab=repositories)  ·  [回到顶部](#你好我是-qq2991807184-)
+**保持好奇，持续探索。**
+
+[🔥 热门项目](https://github.com/trending) · [🤖 AI 模型](https://huggingface.co/models?sort=trending) · [📦 我的仓库](https://github.com/qq2991807184?tab=repositories)
 
 </div>
