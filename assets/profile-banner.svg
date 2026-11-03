@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">qq2991807184 — Explore, Play, Build</title>
+  <desc id="desc">A dark futuristic banner for a profile focused on AI, games, and open source.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080d1b"/>
+      <stop offset=".55" stop-color="#10152c"/>
+      <stop offset="1" stop-color="#071b26"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c5cff"/>
+      <stop offset=".52" stop-color="#31d7ff"/>
+      <stop offset="1" stop-color="#7dffcf"/>
+    </linearGradient>
+    <radialGradient id="orb" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#31d7ff" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#31d7ff" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#9db5ff" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
+  <circle cx="945" cy="145" r="250" fill="url(#orb)"/>
+  <path d="M0 300C240 240 390 385 650 300s390-35 550-110" fill="none" stroke="url(#glow)" stroke-opacity=".2" stroke-width="2"/>
+  <path d="M0 322C240 262 390 407 650 322s390-35 550-110" fill="none" stroke="url(#glow)" stroke-opacity=".1" stroke-width="1"/>
+  <rect x="72" y="64" width="5" height="232" rx="3" fill="url(#glow)"/>
+  <text x="106" y="132" fill="#9ba9c9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" letter-spacing="5">PLAYER / BUILDER / EXPLORER</text>
+  <text x="102" y="202" fill="#f5f7ff" font-family="Arial, Helvetica, sans-serif" font-size="55" font-weight="700">qq2991807184</text>
+  <text x="106" y="250" fill="#c1cbe2" font-family="Arial, Helvetica, sans-serif" font-size="23">AI · GAMES · OPEN SOURCE</text>
+  <g transform="translate(870 102)">
+    <circle cx="72" cy="72" r="70" fill="#111c34" stroke="#31d7ff" stroke-opacity=".45"/>
+    <circle cx="72" cy="72" r="52" fill="none" stroke="#7c5cff" stroke-opacity=".8" stroke-width="2" stroke-dasharray="5 8"/>
+    <path d="M72 34 83 61l29 2-22 18 7 28-25-15-25 15 7-28-22-18 29-2z" fill="none" stroke="url(#glow)" stroke-width="3" stroke-linejoin="round"/>
+    <circle cx="72" cy="72" r="6" fill="#7dffcf"/>
+  </g>
+  <text x="1005" y="290" fill="#7685a7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="3">STAY CURIOUS</text>
+</svg>
