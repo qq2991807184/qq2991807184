@@ -1,39 +1,41 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
   <title id="title">qq2991807184 — Explore, Play, Build</title>
-  <desc id="desc">A dark futuristic banner for a profile focused on AI, games, and open source.</desc>
+  <desc id="desc">A wide midnight-blue profile banner with a gold Z crest and blue gemstones inspired by the supplied brand mark.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#080d1b"/>
-      <stop offset=".55" stop-color="#10152c"/>
-      <stop offset="1" stop-color="#071b26"/>
-    </linearGradient>
-    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#7c5cff"/>
-      <stop offset=".52" stop-color="#31d7ff"/>
-      <stop offset="1" stop-color="#7dffcf"/>
-    </linearGradient>
-    <radialGradient id="orb" cx="50%" cy="50%" r="50%">
-      <stop offset="0" stop-color="#31d7ff" stop-opacity=".22"/>
-      <stop offset="1" stop-color="#31d7ff" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <path d="M36 0H0V36" fill="none" stroke="#9db5ff" stroke-opacity=".07" stroke-width="1"/>
-    </pattern>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050a18"/><stop offset=".52" stop-color="#10172b"/><stop offset="1" stop-color="#07172a"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2=".9" y2="1"><stop offset="0" stop-color="#fff5c8"/><stop offset=".2" stop-color="#d9a13f"/><stop offset=".42" stop-color="#fff0ad"/><stop offset=".68" stop-color="#b97624"/><stop offset=".88" stop-color="#ffe9a1"/><stop offset="1" stop-color="#9f641d"/></linearGradient>
+    <linearGradient id="gem" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d8ffff"/><stop offset=".28" stop-color="#45dcff"/><stop offset=".65" stop-color="#167cff"/><stop offset="1" stop-color="#0634a5"/></linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8066ff"/><stop offset=".52" stop-color="#39bdff"/><stop offset="1" stop-color="#8cecff"/></linearGradient>
+    <radialGradient id="halo"><stop offset="0" stop-color="#147cff" stop-opacity=".32"/><stop offset="1" stop-color="#147cff" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#afc4ff" stroke-opacity=".055" stroke-width="1"/></pattern>
+    <filter id="blueGlow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="9" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
-  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
-  <circle cx="945" cy="145" r="250" fill="url(#orb)"/>
-  <path d="M0 300C240 240 390 385 650 300s390-35 550-110" fill="none" stroke="url(#glow)" stroke-opacity=".2" stroke-width="2"/>
-  <path d="M0 322C240 262 390 407 650 322s390-35 550-110" fill="none" stroke="url(#glow)" stroke-opacity=".1" stroke-width="1"/>
-  <rect x="72" y="64" width="5" height="232" rx="3" fill="url(#glow)"/>
-  <text x="106" y="132" fill="#9ba9c9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" letter-spacing="5">PLAYER / BUILDER / EXPLORER</text>
-  <text x="102" y="202" fill="#f5f7ff" font-family="Arial, Helvetica, sans-serif" font-size="55" font-weight="700">qq2991807184</text>
-  <text x="106" y="250" fill="#c1cbe2" font-family="Arial, Helvetica, sans-serif" font-size="23">AI · GAMES · OPEN SOURCE</text>
-  <g transform="translate(870 102)">
-    <circle cx="72" cy="72" r="70" fill="#111c34" stroke="#31d7ff" stroke-opacity=".45"/>
-    <circle cx="72" cy="72" r="52" fill="none" stroke="#7c5cff" stroke-opacity=".8" stroke-width="2" stroke-dasharray="5 8"/>
-    <path d="M72 34 83 61l29 2-22 18 7 28-25-15-25 15 7-28-22-18 29-2z" fill="none" stroke="url(#glow)" stroke-width="3" stroke-linejoin="round"/>
-    <circle cx="72" cy="72" r="6" fill="#7dffcf"/>
+  <rect width="1200" height="360" rx="26" fill="url(#bg)"/><rect width="1200" height="360" rx="26" fill="url(#grid)"/>
+  <circle cx="930" cy="180" r="250" fill="url(#halo)"/>
+  <path d="M0 300C245 238 390 382 660 300s380-28 540-100" fill="none" stroke="url(#glow)" stroke-opacity=".2" stroke-width="2"/>
+  <path d="M0 323C245 260 390 405 660 323s380-28 540-100" fill="none" stroke="url(#glow)" stroke-opacity=".1" stroke-width="1"/>
+  <rect x="72" y="62" width="5" height="236" rx="3" fill="url(#glow)"/>
+  <text x="106" y="126" fill="#9ba9c9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" letter-spacing="5">PLAYER / BUILDER / EXPLORER</text>
+  <text x="102" y="197" fill="#f7f4e9" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">qq2991807184</text>
+  <text x="106" y="242" fill="#c1cbe2" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="1">AI  ·  GAMES  ·  OPEN SOURCE</text>
+  <text x="106" y="282" fill="#8796b7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="3">STAY CURIOUS · KEEP EXPLORING</text>
+  <g transform="translate(875 20)">
+    <circle cx="145" cy="160" r="143" fill="url(#halo)"/>
+    <circle cx="145" cy="160" r="116" fill="#0a1427" fill-opacity=".74" stroke="url(#gold)" stroke-width="7"/>
+    <circle cx="145" cy="160" r="102" fill="none" stroke="#237dff" stroke-opacity=".56" stroke-width="3" filter="url(#blueGlow)"/>
+    <circle cx="145" cy="160" r="91" fill="none" stroke="#dfb65e" stroke-opacity=".55" stroke-width="1.5"/>
+    <path d="M145 27 174 68 145 106 116 68Z" fill="url(#gold)" stroke="#fff0b0" stroke-width="3"/>
+    <path d="M145 43 165 68 145 93 125 68Z" fill="url(#gem)" stroke="#f5d98b" stroke-width="2.5"/>
+    <path d="M145 47V90M128 68H162" stroke="#e9ffff" stroke-opacity=".85" stroke-width="1.5"/>
+    <path d="M145 214 175 253 145 294 115 253Z" fill="url(#gold)" stroke="#fff0b0" stroke-width="3"/>
+    <path d="M145 230 165 253 145 278 125 253Z" fill="url(#gem)" stroke="#f5d98b" stroke-width="2.5"/>
+    <path d="M145 234V275M128 253H162" stroke="#e9ffff" stroke-opacity=".85" stroke-width="1.5"/>
+    <path d="M13 160 49 130 83 160 49 190Z" fill="url(#gold)" stroke="#fff0b0" stroke-width="2.5"/>
+    <path d="M28 160 49 142 69 160 49 178Z" fill="url(#gem)" stroke="#f5d98b" stroke-width="2"/>
+    <path d="M207 160 241 130 277 160 241 190Z" fill="url(#gold)" stroke="#fff0b0" stroke-width="2.5"/>
+    <path d="M227 160 241 142 262 160 241 178Z" fill="url(#gem)" stroke="#f5d98b" stroke-width="2"/>
+    <path d="M83 112H211L195 134 132 134 207 181 191 204H78L94 182H154L81 137Z" fill="url(#gold)" stroke="#fff5ce" stroke-width="4" stroke-linejoin="bevel"/>
+    <path d="M96 119H194" stroke="#fffbe5" stroke-width="2.5" stroke-linecap="round" opacity=".8"/>
+    <path d="M101 195H180" stroke="#fff2bd" stroke-width="2" stroke-linecap="round" opacity=".65"/>
   </g>
-  <text x="1005" y="290" fill="#7685a7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="3">STAY CURIOUS</text>
 </svg>

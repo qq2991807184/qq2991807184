@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="assets/brand-logo.svg" alt="brand logo" width="520" />
-
-# qq2991807184
+<img src="assets/profile-banner.svg" alt="qq2991807184 — 游戏、AI 与热门项目导航" width="100%" />
 
 ### 🎮 游戏 · 🤖 AI · 🧭 热门项目导航
 
