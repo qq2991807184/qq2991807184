@@ -1,23 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">qq2991807184 — Explore, Play, Build</title>
-  <desc id="desc">Wide midnight-blue profile banner with subtle blue and gold accents, without a substitute logo.</desc>
+  <title id="title">Games, AI, and Open Source</title>
+  <desc id="desc">A wide midnight navy banner coordinated with a gold and blue jeweled brand logo. The banner does not include the account name.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050a18"/><stop offset=".52" stop-color="#10172b"/><stop offset="1" stop-color="#07172a"/></linearGradient>
-    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8066ff"/><stop offset=".52" stop-color="#39bdff"/><stop offset="1" stop-color="#d3a64f"/></linearGradient>
-    <radialGradient id="halo"><stop offset="0" stop-color="#147cff" stop-opacity=".24"/><stop offset="1" stop-color="#147cff" stop-opacity="0"/></radialGradient>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#afc4ff" stroke-opacity=".055" stroke-width="1"/></pattern>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#9c6926"/><stop offset=".5" stop-color="#ffe5a0"/><stop offset="1" stop-color="#b98031"/></linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4e65ff"/><stop offset=".5" stop-color="#49d9ff"/><stop offset="1" stop-color="#3778ff"/></linearGradient>
+    <radialGradient id="halo"><stop offset="0" stop-color="#157cff" stop-opacity=".2"/><stop offset="1" stop-color="#157cff" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#d8c28e" stroke-opacity=".045" stroke-width="1"/></pattern>
   </defs>
   <rect width="1200" height="360" rx="26" fill="url(#bg)"/><rect width="1200" height="360" rx="26" fill="url(#grid)"/>
-  <circle cx="940" cy="150" r="250" fill="url(#halo)"/>
-  <path d="M0 300C245 238 390 382 660 300s380-28 540-100" fill="none" stroke="url(#glow)" stroke-opacity=".2" stroke-width="2"/>
-  <path d="M0 323C245 260 390 405 660 323s380-28 540-100" fill="none" stroke="url(#glow)" stroke-opacity=".1" stroke-width="1"/>
-  <rect x="72" y="62" width="5" height="236" rx="3" fill="url(#glow)"/>
-  <text x="106" y="126" fill="#9ba9c9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" letter-spacing="5">PLAYER / BUILDER / EXPLORER</text>
-  <text x="102" y="197" fill="#f7f4e9" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">qq2991807184</text>
-  <text x="106" y="242" fill="#c1cbe2" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="1">AI  ·  GAMES  ·  OPEN SOURCE</text>
-  <text x="106" y="282" fill="#8796b7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="3">STAY CURIOUS · KEEP EXPLORING</text>
-  <circle cx="1010" cy="168" r="128" fill="none" stroke="#237dff" stroke-opacity=".17" stroke-width="1"/>
-  <circle cx="1010" cy="168" r="104" fill="none" stroke="#dfb65e" stroke-opacity=".24" stroke-width="1"/>
-  <circle cx="1010" cy="168" r="80" fill="none" stroke="#39bdff" stroke-opacity=".12" stroke-width="1" stroke-dasharray="3 9"/>
-  <circle cx="1010" cy="168" r="5" fill="#d9b35d" opacity=".8"/>
+  <circle cx="930" cy="150" r="250" fill="url(#halo)"/>
+  <path d="M0 300C245 238 390 382 660 300s380-28 540-100" fill="none" stroke="url(#blue)" stroke-opacity=".2" stroke-width="2"/>
+  <path d="M0 323C245 260 390 405 660 323s380-28 540-100" fill="none" stroke="url(#gold)" stroke-opacity=".16" stroke-width="1.5"/>
+  <rect x="72" y="62" width="4" height="236" rx="2" fill="url(#gold)"/>
+  <text x="106" y="119" fill="#d5bb7b" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" letter-spacing="5">A PERSONAL DISCOVERY HUB</text>
+  <text x="102" y="190" fill="#f7f2e7" font-family="Arial, Helvetica, sans-serif" font-size="47" font-weight="700" letter-spacing="2">GAMES  ·  AI</text>
+  <text x="106" y="236" fill="#b9c9e6" font-family="Arial, Helvetica, sans-serif" font-size="25" letter-spacing="3">OPEN SOURCE &amp; WHAT'S NEXT</text>
+  <text x="106" y="280" fill="#98a5bf" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="3">EXPLORE THE FRONTIER  ·  STAY CURIOUS</text>
+  <g transform="translate(920 0)" fill="none">
+    <circle cx="115" cy="165" r="115" stroke="#d7ac58" stroke-opacity=".42" stroke-width="1.5"/>
+    <circle cx="115" cy="165" r="94" stroke="#33aaff" stroke-opacity=".32" stroke-width="1.5"/>
+    <circle cx="115" cy="165" r="72" stroke="#e7c779" stroke-opacity=".2" stroke-width="1" stroke-dasharray="2 8"/>
+    <path d="M115 40V67M115 263V290M-10 165H17M213 165H240" stroke="url(#gold)" stroke-width="2" opacity=".8"/>
+    <path d="M115 80 121 103 145 109 121 115 115 139 109 115 85 109 109 103Z" fill="url(#blue)" stroke="url(#gold)" stroke-width="1.5"/>
+    <circle cx="115" cy="165" r="5" fill="#f0d48a" stroke="none"/>
+  </g>
 </svg>
